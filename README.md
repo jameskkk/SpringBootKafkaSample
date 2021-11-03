@@ -1,4 +1,4 @@
-# SpringBootKafkaSample
+# A Sample of Kafka by Java Spring Boot 
 A Kafka sample with Java Spring Boot.
 
 ## 基礎概念
